@@ -17,10 +17,10 @@ class Home extends React.Component{
 
                             <h3 class="animate-intro">hello there!</h3>
                                 <span class="animate-intro">i am <a>tomazuu </a></span>
-                            <h3 class="animate-intro">
-                            Developer | Graphic Artist <br/>
-                            Based in Tacloban Philippines. 
-                            </h3>	
+                            <h1 class="animate-intro">
+                            developer | graphic artist <br/>
+                            based in Tacloban Philippines. 
+                            </h1>	
 
                             <ul class="home-section-links">
                                 <li class="animate-intro">More <a href="#about" class="smoothscroll">About Me</a></li>

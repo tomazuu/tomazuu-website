@@ -1684,7 +1684,7 @@ header .header-logo a {
 
 .home-content-tablecell .row {
 	position: relative;
-	padding-top: 45rem;
+	padding-top: 35rem;
 	padding-bottom: 15rem;
 }
 
@@ -2358,7 +2358,7 @@ header .header-logo a {
 	margin-left: -2.4rem;
 }
 
-#credentials .timeline-header .timeframe {
+#credentials .timeline-header .timeframe{
 	font-family: "montserrat-regular", sans-serif;
 	font-size: 1.6rem;
 	color: #757575;
@@ -3151,6 +3151,12 @@ footer .footer-social li:last-child {
 	background: #000000;
 	color: #FFFFFF;
 }
+
+a.button.disabledCursor,a.button.disabledCursor:hover { 
+	cursor: default;
+	background-color:#2b2a2a;
+	color: gray;
+  }
 
 /* ------------------------------------------------------------------- 
  * responsive:
