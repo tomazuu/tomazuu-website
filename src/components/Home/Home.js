@@ -1,10 +1,12 @@
 import React from "react";
+import ReactTooltip from "react-tooltip";
 import FloatCircle from "../Effects/FloatCircle";
 
 class Home extends React.Component{
     render(){
         return(
             <>
+                <ReactTooltip/>
                 <section id="home">
                     <div class="overlay"></div>
                     <div class="gradient-overlay"></div>
@@ -16,7 +18,7 @@ class Home extends React.Component{
                                         <div class="home-bottom-text">
 
                             <h3 class="animate-intro">hello there!</h3>
-                                <span class="animate-intro">i am <a>tomazuu </a></span>
+                                <span class="animate-intro">i am <a class="tomazuu">tomazuu </a></span>
                             <h1 class="animate-intro">
                             developer | graphic artist <br/>
                             based in Tacloban Philippines. 
@@ -24,7 +26,7 @@ class Home extends React.Component{
 
                             <ul class="home-section-links">
                                 <li class="animate-intro">More <a href="#about" class="smoothscroll">About Me</a></li>
-                                <li class="animate-intro">View <a href="#portfolio" class="smoothscroll">My Works</a></li>
+                                <li class="animate-intro">View <a href="#portfolio" class="smoothscroll" data-tip="this functionality will be added soon">My Works</a></li>
                                 <li class="animate-intro">Contact <a href="#contact" class="smoothscroll">By Email</a></li>								
                             </ul>
 

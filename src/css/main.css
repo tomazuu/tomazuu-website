@@ -3185,3 +3185,7 @@ a.button.disabledCursor,a.button.disabledCursor:hover {
         border-radius: 50%;
     }
 }
+
+a.tomazuu, a.tomazuu:hover{
+	color: #f0a359;
+}

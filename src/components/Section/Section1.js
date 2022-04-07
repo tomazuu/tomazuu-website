@@ -29,7 +29,7 @@ class Section1 extends React.Component {
                                 I am a full stack software engineer and QA engineer who is more into Java and React. Currently diving in the world of UI/UX.
                                 I am also freelance photographer and graphic artist.
                             </p>
-
+                            {/*
                             <p>
                                 <a href="#"
                                     class="button full-width disabledCursor"
@@ -42,6 +42,7 @@ class Section1 extends React.Component {
                                     data-tip="this functionality will be added soon">
                                     Download CV</a>
                             </p>
+                             */}
 
                         </div>
 

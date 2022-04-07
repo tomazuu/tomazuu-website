@@ -15,14 +15,14 @@ export const MenuItems = [
         title: 'Credentials',
         url: '#credentials' 
     },
-    {
-        title: 'Portfolio',
-        url: '#portfolio'   
-    },
-    {
-        title: 'Stats',
-        url: '#stats'
-    },
+    //{
+    //    title: 'Portfolio',
+    //    url: '#portfolio'   
+    //},
+    //{
+    //    title: 'Stats',
+    //    url: '#stats'
+    //},
     {
         title: 'Contact',
         url: '#contact'
@@ -37,7 +37,7 @@ export const MediaItems = [
     },
     {
         title: 'LinkedIn',
-        url: '#',
+        url: 'https://www.linkedin.com/in/thetsukiyotomasu',
         classname:'fa fa-linkedin'
     },
     /*

@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactTooltip from 'react-tooltip';
 import { MenuItems } from './MenuItems';
 import { MediaItems } from './MenuItems';
 
@@ -12,9 +13,12 @@ class Navbar extends React.Component {
 	render() {
 		return (
 			<div class={this.state.clicked ? "menu-is-open" : ""}>
+
+				<ReactTooltip/>
 				<header>
 					<div class="header-logo">
-						<a href="index.html">Howdy</a>
+						<a 	href="index.html"
+							data-tip="This Portfolio is under maintainance. Expect to have changes time to time">tomazuu</a>
 					</div>
 
 					<a id="header-menu-trigger"

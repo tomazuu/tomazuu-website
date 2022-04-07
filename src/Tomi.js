@@ -7,7 +7,6 @@ import TomazuuSection3 from "./components/Section/Section3";
 import TomazuuSection5 from "./components/Section/Section5";
 import './css/base.css';
 import './css/main.css';
-import './css/vendor.css';
 import './css/floatCircle.css';
 
 function App() {
