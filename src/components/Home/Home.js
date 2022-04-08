@@ -26,7 +26,10 @@ class Home extends React.Component{
 
                             <ul class="home-section-links">
                                 <li class="animate-intro">More <a href="#about" class="smoothscroll">About Me</a></li>
+                                {/*
                                 <li class="animate-intro">View <a href="#portfolio" class="smoothscroll" data-tip="this functionality will be added soon">My Works</a></li>
+                                */
+                                }
                                 <li class="animate-intro">Contact <a href="#contact" class="smoothscroll">By Email</a></li>								
                             </ul>
 

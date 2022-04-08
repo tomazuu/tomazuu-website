@@ -149,7 +149,7 @@ class Section3 extends React.Component {
                                         <i class="fa fa-graduation-cap"></i>
                                     </div>
                                     <div class="timeline-header">
-                                        <p class="timeframe">June 2006 - March 2014</p>
+                                        <p class="timeframe">June 2006 - March 2010</p>
                                         <h3>Leyte National High School- Engineering and Science Education Program</h3>
                                         <h4>13th Honorable Mention</h4>
                                     </div>
