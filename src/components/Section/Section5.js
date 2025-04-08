@@ -35,7 +35,7 @@ class Section5 extends React.Component {
 
                         <div class="col-twelve tab-full">
                             <div class="copyright">
-                                <span>© Copyright Tomazuu 2022.</span>
+                                <span>© Copyright Tomazuu 2025.</span>
                             </div>
                         </div>
 
