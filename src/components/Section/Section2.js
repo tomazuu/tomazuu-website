@@ -22,15 +22,19 @@ class Section2 extends React.Component {
 
                             <ul class="skill-bars">
                                 <li class="animate-this" data-animate="fadeInRight">
-                                    <div class="progress percent90"><span>85%</span></div>
+                                    <div class="progress percent90"><span>90%</span></div>
+                                    <strong>Project Management</strong>
+                                </li>
+                                <li class="animate-this" data-animate="fadeInRight">
+                                    <div class="progress percent90"><span>90%</span></div>
                                     <strong>HTML5</strong>
                                 </li>
                                 <li class="animate-this" data-animate="fadeInRight">
-                                    <div class="progress percent85"><span>85%</span></div>
+                                    <div class="progress percent90"><span>90%</span></div>
                                     <strong>CSS3</strong>
                                 </li>
                                 <li class="animate-this" data-animate="fadeInRight">
-                                    <div class="progress percent85"><span>85%</span></div>
+                                    <div class="progress percent90"><span>90%</span></div>
                                     <strong>Java</strong>
                                 </li>
                                 <li class="animate-this" data-animate="fadeInRight">

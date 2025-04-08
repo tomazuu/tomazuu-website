@@ -26,7 +26,7 @@ class Section1 extends React.Component {
                             </div>
 
                             <p class="animate-this">
-                                I am a full stack software engineer and QA engineer who is more into Java and React. Currently diving in the world of UI/UX.
+                                I am a full-stack software-QA engineer, and now a Japanese Bilingual Technical Project Manager who is more into Java and React. Currently diving in the world of UI/UX.
                                 I am also freelance photographer and graphic artist.
                             </p>
                             {/*
@@ -53,46 +53,55 @@ class Section1 extends React.Component {
                                 <h1 class="animate-this">my arsenal</h1>
 
                                 <p class="lead animate-this">
-                                    For almost 8 years in the world of IT industry and Designing, I equipped myself with the following skills to match up the client's expectations.
+                                    For almost 10.5 years in the world of IT industry and Designing, I equipped myself with the following skills to match up the client's expectations.
                                 </p>
                             </div>
 
                             <ul class="services">
+                            <li class="item-webdesign animate-this">
+                                    {/* <div class="icon-wrap">
+                                        <i class="icon-HTML"></i>
+                                    </div> */}
+                                    <div class="service-item">
+                                        <h4>Bilingual Technical Manager</h4>
+                                        <p>Creates Project Plans, Quotations and other commercials. Ensures the welfare of the project and the members. Generate reports from risk reports up to furikaeri reports.</p>
+                                    </div>
+                                </li>
 
                                 <li class="item-webdesign animate-this">
-                                    <div class="icon-wrap">
+                                    {/* <div class="icon-wrap">
                                         <i class="icon-HTML"></i>
-                                    </div>
+                                    </div> */}
                                     <div class="service-item">
                                         <h4>Web Developer</h4>
                                         <p>Website creation and maintenance (Back-end and Front-end) based on client specifications</p>
                                     </div>
                                 </li>
                                 <li class="item-uiux animate-this">
-                                    <div class="icon-wrap">
+                                    {/* <div class="icon-wrap">
                                         <i class="icon-Checked"></i>
-                                    </div>
+                                    </div> */}
                                     <div class="service-item">
                                         <h4>Quality Assurance</h4>
                                         <p>Code testing (Unit Test,System Test...), test automation and generation of reports</p>
                                     </div>
                                 </li>
                                 <li class="item-uiux animate-this">
-                                    <div class="icon-wrap">
+                                    {/* <div class="icon-wrap">
                                         <i class="icon-Picture"></i>
-                                    </div>
+                                    </div> */}
                                     <div class="service-item">
                                         <h4>Photography</h4>
                                         <p>Product photography for your business, portraits and events</p>
                                     </div>
                                 </li>
                                 <li class="item-uiux animate-this">
-                                    <div class="icon-wrap">
+                                    {/* <div class="icon-wrap">
                                         <i class="icon-Signature"></i>
-                                    </div>
+                                    </div> */}
                                     <div class="service-item">
                                         <h4>Graphic Designing</h4>
-                                        <p>Logo creation, media-layouts, social-media-related designs, infographics, posters and others</p>
+                                        <p>Logo creation, media-layouts, social-media-related designs, infographics, posters, wedding online invitations and others</p>
                                     </div>
                                 </li>
                             </ul>
